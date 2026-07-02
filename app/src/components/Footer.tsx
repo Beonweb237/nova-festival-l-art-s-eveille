@@ -160,14 +160,6 @@ export default function Footer() {
             <Link to="/a-propos" className="text-xs text-nova-muted hover:text-nova-gold transition-colors duration-300">
               Politique de Confidentialite
             </Link>
-            <a
-              href="https://www.beonweb.cm/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-xs text-nova-muted hover:text-nova-gold transition-colors duration-300"
-            >
-              Conçu par Beonweb
-            </a>
           </div>
         </div>
       </div>
